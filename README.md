@@ -5,4 +5,3 @@ Landing of video surveillance installation site
   * Slider Swiper
   * Popups
   * Spoilers 
-  * BEM
